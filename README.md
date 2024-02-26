@@ -3,6 +3,11 @@ Aplicação cliente que manipula o banco do promocity (http://www.github.com/arm
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://github.com/armandossrecife/syspromocity/blob/master/LICENSE)
 
+Vídeos de Demonstração: 
+
+* Aplicação web: https://youtu.be/vdraJPtCmYg
+* Aplicação mobile: https://youtu.be/wYCnML-D9nI
+
 Features
 ---
 
